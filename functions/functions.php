@@ -2,7 +2,7 @@
 
 //$db = mysqli_connect("localhost", "Joseey", "", "ecom_store_doris");
 
-$db = mysqli_connect("localhost", "u721127448_Dray", "LagbaluJ19", "u721127448_ultimatelove");
+$db = mysqli_connect("localhost", "u721127448_Ultimate", "LagbaluJ19", "u721127448_ultimatelove");
 
 ///  getipUser functions begin ///
 
